@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Dice/static/css/main.19efe49f.css",
+    "main.js": "/React-Dice/static/js/main.ae0dfc94.js",
+    "static/js/787.cabfcbc4.chunk.js": "/React-Dice/static/js/787.cabfcbc4.chunk.js",
+    "index.html": "/React-Dice/index.html",
+    "main.19efe49f.css.map": "/React-Dice/static/css/main.19efe49f.css.map",
+    "main.ae0dfc94.js.map": "/React-Dice/static/js/main.ae0dfc94.js.map",
+    "787.cabfcbc4.chunk.js.map": "/React-Dice/static/js/787.cabfcbc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19efe49f.css",
+    "static/js/main.ae0dfc94.js"
+  ]
+}
